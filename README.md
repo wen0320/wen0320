@@ -48,6 +48,6 @@
 
 <div align="center">
 ✨ Keep learning, keep progressing ✨
-</div>## Hi there 👋
+</div>
 
 
