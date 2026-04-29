@@ -15,7 +15,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 Main research direction：**Speech Separation、Audio Processing、TTS、Sound Event Detection**
+- 🔭 Main research direction：**Speech Separation、Audio Processing、TTS、VC**
 - 🌱 Currently learning：Large Model & Multimodal Audio Technology
 - 💡 Interested in intelligent speech algorithm engineering and audio signal processing
 - 📍 Based in Guangzhou, China
@@ -37,7 +37,6 @@
 - Sound / Music Source Separation
 - Target Speaker Extraction & Speech Enhancement
 - TTS Voice Synthesis & Voice Conversion
-- Sound Event Detection & Environmental Audio Perception
 
 ---
 
@@ -51,17 +50,4 @@
 ✨ Keep learning, keep progressing ✨
 </div>## Hi there 👋
 
-<!--
-**wen0320/wen0320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
